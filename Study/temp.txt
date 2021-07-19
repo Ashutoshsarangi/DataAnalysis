@@ -1,0 +1,3 @@
+Now the Whole File is going to be replaced with this statement 
+ NOw this Original File is going to be Appended with the previous content 
+ Hello Brother, This is a Dummy File Which I am Going to read and Write. 
